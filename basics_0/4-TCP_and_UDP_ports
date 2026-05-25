@@ -1,1 +1,3 @@
+#!/usr/bin/env bash
+# Displays all listening TCP, UDP, and UNIX sockets with PID and program name.
 netstat -pltux
